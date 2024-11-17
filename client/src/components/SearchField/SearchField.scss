@@ -1,0 +1,33 @@
+.search-field {
+    
+    justify-content: center;
+    display: flex
+;
+  
+  
+   
+    &:focus-within {
+      border-color: darkblue;
+    }
+  
+    &__input {
+  
+      padding: 1rem;
+      outline: none;
+      height: 50px;
+      width: 500px;
+      border: 1px solid gray;
+  
+      &.active {
+        border-color: darkblue;
+      }
+    }
+  
+    &__icon {
+      background: url("/images/icons/search.svg") no-repeat;
+      width: 1.5rem;
+      height: 1.5rem;
+     
+    }
+  }
+  

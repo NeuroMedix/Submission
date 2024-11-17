@@ -1,0 +1,76 @@
+@use "../styles/partials/typography.scss" as *;
+
+.main{
+    height: 100vh;
+    background-image: url('/background.jpg');
+background-size: cover;
+background-position: center;
+background-repeat: no-repeat;
+padding: 1rem;
+}
+
+
+.header {
+ 
+  width: 100vw;
+  height: 5rem;
+  position: absolute;
+  top: 0;
+  left: 0;
+  
+  
+  
+
+  &__container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+
+
+  }
+
+  &__nav-list{
+    display: flex;
+    list-style-type: none;
+  }
+
+  &__nav-button{
+    padding: 1rem;
+    color: white;
+  }
+
+  &__logo{
+ padding: 1rem;
+    width: 6.25rem;
+  }
+}
+
+.main-body{
+    position: relative;
+    top: 15rem;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+h1 {
+  font-family: "Saira Stencil One", serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 5rem;
+  color: white;
+  
+ 
+ 
+}
+
+p{
+    color: #E9E8E8;
+    font-weight: 200;
+    
+}
+
+.CTA-landing{
+  text-decoration: none;
+}

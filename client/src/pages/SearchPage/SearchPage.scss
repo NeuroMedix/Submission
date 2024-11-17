@@ -1,0 +1,51 @@
+.main-search {
+  background-color: #142433;
+  height: 100vh;
+  margin: auto;
+  padding: 2rem;
+}
+
+.header {
+  width: 100vw;
+  height: 5rem;
+  position: absolute;
+  top: 0;
+  left: 0;
+
+  &__container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+  }
+
+  &__nav-list {
+    display: flex;
+    list-style-type: none;
+  }
+
+  &__nav-button {
+    padding: 1rem;
+    color: white;
+  }
+
+  &__logo {
+    padding: 1rem;
+    width: 6.25rem;
+  }
+}
+
+.section-search {
+    height: 50vh;
+    justify-content: center;
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    text-align: left;
+}
+
+h4{
+  color: #E9E8E8;
+  margin-top: 50px;
+}

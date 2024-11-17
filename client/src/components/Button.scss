@@ -1,0 +1,16 @@
+.button {
+    background-color: white;
+    display: flex;
+    align-items: center;
+    color: black;
+    padding: 1rem;
+    border-style: none;
+
+justify-content: center;
+  
+    &:hover {
+      color: white;
+      background-color: gray;
+    }
+  }
+  
