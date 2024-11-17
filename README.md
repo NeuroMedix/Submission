@@ -1,10 +1,10 @@
 # NeuroMedix: Accelerating Drug Discovery for Alzheimer's Disease
 
-## Project Overview
-
 <div align="center">
-    <img src="https://github.com/NeuroMedix/Submission/blob/main/logo.png" alt="Alt text" width="500"/>
+    <img src="https://github.com/NeuroMedix/Submission/blob/main/logo.png" alt="Alt text" width="400"/>
 </div>
+
+## Project Overview
 
 **NeuroMedix** leverages advanced machine learning to accelerate drug design. Most drugs are derived from natural compounds and then optimized, rather than being synthesized from scratch in a lab. To support this approach, we use and refine the NP-VAE (Natural Product-oriented Variational Autoencoder) model developed by Ochiai et al. 2023, designed specifically to handle complex, biologically active natural compounds. Trained on 30,000 compounds from DrugBank and a dataset of natural compounds, NP-VAE overcomes limitations that traditional VAE models face in processing natural product data.
 
