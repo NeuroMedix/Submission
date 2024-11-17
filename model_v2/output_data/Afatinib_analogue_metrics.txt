@@ -1,0 +1,62 @@
+Generated Analogs and Their Metrics:
+==================================================
+Analogue 1:
+SMILES: O=CO[C@H]1CC[C@@H](c2ccc(F)c(Cl)c2)c2ccccc21
+Molecular Weight: 304.748
+LogP: 4.618900000000004
+QED: 0.7734913250524309
+SAscore: 3.2587815115824714
+Hydrogen Bond Acceptors: 2
+Hydrogen Bond Donors: 0
+Rotatable Bonds: 3
+Lipinski's Rule of Five: Pass
+Tanimoto Similarity: 0.20212765957446807
+--------------------------------------------------
+Analogue 2:
+SMILES: Cc1c(Cl)ccc2[nH]cnc12
+Molecular Weight: 166.611
+LogP: 2.5247199999999994
+QED: 0.6403340003619417
+SAscore: 2.324599343741399
+Hydrogen Bond Acceptors: 1
+Hydrogen Bond Donors: 1
+Rotatable Bonds: 0
+Lipinski's Rule of Five: Pass
+Tanimoto Similarity: 0.11235955056179775
+--------------------------------------------------
+Analogue 3:
+SMILES: Nc1c2c(nc3ccccc13)CCCC2
+Molecular Weight: 198.26899999999992
+LogP: 2.695800000000001
+QED: 0.7064882384087371
+SAscore: 2.0147191327899314
+Hydrogen Bond Acceptors: 2
+Hydrogen Bond Donors: 1
+Rotatable Bonds: 0
+Lipinski's Rule of Five: Pass
+Tanimoto Similarity: 0.0851063829787234
+--------------------------------------------------
+Analogue 4:
+SMILES: Fc1cccnc1
+Molecular Weight: 97.092
+LogP: 1.2207000000000001
+QED: 0.47397196118629864
+SAscore: 1.7338205096010029
+Hydrogen Bond Acceptors: 1
+Hydrogen Bond Donors: 0
+Rotatable Bonds: 0
+Lipinski's Rule of Five: Pass
+Tanimoto Similarity: 0.07058823529411765
+--------------------------------------------------
+Analogue 5:
+SMILES: Nc1nccn2cncc12
+Molecular Weight: 134.142
+LogP: 0.3115
+QED: 0.5638030951061849
+SAscore: 2.8941149900176875
+Hydrogen Bond Acceptors: 4
+Hydrogen Bond Donors: 1
+Rotatable Bonds: 0
+Lipinski's Rule of Five: Pass
+Tanimoto Similarity: 0.0425531914893617
+--------------------------------------------------

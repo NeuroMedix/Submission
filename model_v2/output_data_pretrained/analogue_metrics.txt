@@ -1,0 +1,62 @@
+Generated Analogs and Their Metrics:
+==================================================
+Analogue 1:
+SMILES: CCC
+Molecular Weight: 44.096999999999994
+LogP: 1.4163
+QED: 0.3854706587740357
+SAscore: 1.7549570386349824
+Hydrogen Bond Acceptors: 0
+Hydrogen Bond Donors: 0
+Rotatable Bonds: 0
+Lipinski's Rule of Five: Pass
+Tanimoto Similarity: 0.0625
+--------------------------------------------------
+Analogue 2:
+SMILES: CCC(C)(C)n1cnc2c(N)ncnc21
+Molecular Weight: 205.265
+LogP: 1.5535999999999996
+QED: 0.8071893746953518
+SAscore: 2.784070079404291
+Hydrogen Bond Acceptors: 5
+Hydrogen Bond Donors: 1
+Rotatable Bonds: 2
+Lipinski's Rule of Five: Pass
+Tanimoto Similarity: 0.03389830508474576
+--------------------------------------------------
+Analogue 3:
+SMILES: CN(C)CCCc1noc2cc(F)ccc12
+Molecular Weight: 222.263
+LogP: 2.461100000000001
+QED: 0.7953853274254188
+SAscore: 2.2774253984252564
+Hydrogen Bond Acceptors: 3
+Hydrogen Bond Donors: 0
+Rotatable Bonds: 4
+Lipinski's Rule of Five: Pass
+Tanimoto Similarity: 0.031746031746031744
+--------------------------------------------------
+Analogue 4:
+SMILES: C#CC
+Molecular Weight: 40.065
+LogP: 0.6395
+QED: 0.34772809547953587
+SAscore: 3.6582262694042136
+Hydrogen Bond Acceptors: 0
+Hydrogen Bond Donors: 0
+Rotatable Bonds: 0
+Lipinski's Rule of Five: Pass
+Tanimoto Similarity: 0.02857142857142857
+--------------------------------------------------
+Analogue 5:
+SMILES: Fc1ccc2cnoc2c1
+Molecular Weight: 137.113
+LogP: 1.9668999999999996
+QED: 0.554349264182168
+SAscore: 2.495255043068086
+Hydrogen Bond Acceptors: 2
+Hydrogen Bond Donors: 0
+Rotatable Bonds: 0
+Lipinski's Rule of Five: Pass
+Tanimoto Similarity: 0.019230769230769232
+--------------------------------------------------
